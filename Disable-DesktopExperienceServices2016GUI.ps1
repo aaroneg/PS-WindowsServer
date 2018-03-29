@@ -1,3 +1,4 @@
+throw "Read file and save the current state of your services before running this"
 # Disable the stupid, useless services that 2016 in GUI mode comes with by default to reduce attack surface
 # Refer to https://docs.microsoft.com/en-us/windows-server/security/windows-services/security-guidelines-for-disabling-system-services-in-windows-server
 $DisableServices=@(
