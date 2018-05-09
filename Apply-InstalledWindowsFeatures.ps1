@@ -1,3 +1,5 @@
+# Add windows features to this computer to match the features installed on another computer. 
+
 # Change this path to the location of the sxs folder in the install media
 $SourcePath="\\Server\Share\path\to\Windows Server 2016 x64\sources\sxs"
 Function Get-FileName($initialDirectory)
